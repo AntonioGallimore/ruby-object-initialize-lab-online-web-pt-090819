@@ -1,9 +1,9 @@
 class Person
-  def name=(name)
-    @name=name
+  def name = ("Beyonce")
+    @name = "Beyonce"
 end
 def name
   @name
 end
 end
-beyonce = Person.new("Beyonce")
+beyonce = Person.new
