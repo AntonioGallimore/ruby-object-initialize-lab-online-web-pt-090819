@@ -1,8 +1,7 @@
 class Person
-  def name = beyonce
-    @name = "Beyonce"
+  def name=(name)
+    @name=name
 end
 def name
   @name
-end
 end
