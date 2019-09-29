@@ -6,4 +6,4 @@ def name
   @name
 end
 end
-Beyonce = Person.new
+beyonce = Person.new("Beyonce")
