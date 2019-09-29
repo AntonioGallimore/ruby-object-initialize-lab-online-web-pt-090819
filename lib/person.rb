@@ -2,7 +2,7 @@ class Person
   def initialize(name)
 end
 def name
-  @name=name
+  @name=beyonce
 end
 end       
 Person.new("Beyonce")
